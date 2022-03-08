@@ -1,5 +1,8 @@
 env*/
 金融科技学习赛/
+videos/
+.Trash-0/
+*.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
